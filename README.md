@@ -6,7 +6,7 @@ In this tutorial we are having the Retrofit Android Library Tutorial which is a 
 
 Comparison of AsyncHttp ,Volley and Retrofit which this is showing how retrofit is beating other libraries
 
-![alt tag](http://androidgifts.com/wp-content/uploads/2016/04/retrofit_speed-768x214.png)
+
 
 #Converters:
 
