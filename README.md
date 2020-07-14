@@ -35,7 +35,7 @@ compile 'com.squareup.retrofit2:converter-gson:2.4.0'
 ```
 
 
-# Featurs:
+# Features:
 
 * Simple Get Request
 * Retrofit URL Manipulation
