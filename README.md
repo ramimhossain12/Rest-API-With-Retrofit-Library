@@ -38,10 +38,10 @@ compile 'com.squareup.retrofit2:converter-gson:2.4.0'
 # Featurs:
 
 * Simple Get Request
-* Retrofit URL Man
+* Retrofit URL Manipulation
 @PATH,
-@QUERY
-@QUERYMAP
+@QUERY,
+@QUERYMAP,
 URL
 * POST REQUEST & FORM URLENCODED
  
