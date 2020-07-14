@@ -44,4 +44,5 @@ compile 'com.squareup.retrofit2:converter-gson:2.4.0'
 @QUERYMAP,
 URL
 * POST REQUEST & FORM URLENCODED
+* PUT ,PATCH,DELETE REQUEST
  
