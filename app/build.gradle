@@ -38,4 +38,7 @@ dependencies {
     // JSON Converter
     implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
 
+    // Need 3 Library................
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.8.0'
+
 }
