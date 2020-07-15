@@ -25,8 +25,9 @@ In the past, Retrofit relied on the GSON library to serialize and deserialize JS
 * Retrofit Library dependency and its Gson converter library dependency should be added in the build.gradle of Retrofit Example Application:
 
 ```xml
-compile 'com.squareup.retrofit2:retrofit:2.4.0'
-compile 'com.squareup.retrofit2:converter-gson:2.4.0'
+ implementation 'com.squareup.retrofit2:retrofit:2.4.0'
+ implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
+ implementation 'com.squareup.okhttp3:logging-interceptor:4.8.0'
 ```
 
 * Internet permission should be added in the Manifest.xml file.
@@ -45,4 +46,5 @@ compile 'com.squareup.retrofit2:converter-gson:2.4.0'
 URL
 * POST REQUEST & FORM URLENCODED
 * PUT ,PATCH,DELETE REQUEST
+* LOG HTTP REQUEST & RESPONSE WITH LOGGIN
  
