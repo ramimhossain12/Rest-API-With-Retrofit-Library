@@ -22,7 +22,7 @@ In the past, Retrofit relied on the GSON library to serialize and deserialize JS
  
 
 # Library Added:
-* Retrofit Library dependency and its Gson converter library dependency should be added in the build.gradle of Retrofit Example Application:
+* Retrofit All Library dependency and its Gson converter library dependency should be added in the build.gradle of Retrofit Example Application:
 
 ```xml
  implementation 'com.squareup.retrofit2:retrofit:2.4.0'
